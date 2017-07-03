@@ -62,6 +62,7 @@ layout: default
 
                 <hr style="visibility: hidden;">
 
+
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -152,10 +153,6 @@ layout: default
     </div>
 </article>
 
-<!-- Add support for Mathjax by Voleking-->
-{% if page.mathjax %}
-  {% include mathjax_support.html %}
-{% endif %}
 
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
