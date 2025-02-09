@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "最好的学习方法是把别人讲懂"
+title:        "费曼是对的：最好的学习方法是教会别人"
 author:       "Dony"
 header-style: text
 catalog:      true
