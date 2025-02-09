@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "最好的学习方法是把别人讲懂"
-author:       "万东"
+author:       "Dony"
 header-style: text
 catalog:      true
 tags:
