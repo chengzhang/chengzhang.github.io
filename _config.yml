@@ -1,9 +1,9 @@
 # Site settings
-title: ChengZhang Blog
-SEOTitle: ChengZhang Blog
+title: Dony Blog
+SEOTitle: Dony Blog | ChengZhang Blog | 张程的博客
 header-img: img/home-bg-lib-and-football.jpeg
 email: zhangwpc@gmail.com
-description: "coding, writing, crating"
+description: "Coding, Writing, Crating"
 keyword: ""
 url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: chengzhang
+disqus_username: disqus_vPvQHfkTHH
 
 # Netease settings
 netease_comment: false
@@ -74,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "coding, writing, creating <br> NLPer @ 天美"
+sidebar-about-description: "Coding, Writing, Creating <br> NLPer @ Timi"
 sidebar-avatar: https://avatars.githubusercontent.com/u/1505208?s=400&u=9c889a275fd9f1e4cb27bc90e99b47bf8f285c7c&v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
