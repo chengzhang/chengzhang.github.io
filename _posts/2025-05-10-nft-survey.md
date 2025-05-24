@@ -16,6 +16,7 @@ tags:
 
 # 数字藏品为何大受欢迎
 **稀缺性和独特性**
+
 数字藏品就像数字世界里的“限量版潮鞋”，每一件都是独一无二的，基于区块链技术，确保了它的不可复制性。这种稀缺性对收藏者和投资者来说，就如同看到了稀世珍宝，心理上的满足感和社交认可油然而生。就像 CryptoPunks 和Bored Ape Yacht Club，因其稀缺性吸引了众多投资者和收藏者。
 
 ![CryptoPunks](https://en.wikipedia.org/wiki/CryptoPunks#/media/File:Cryptopunks_general.jpg)
@@ -23,6 +24,7 @@ tags:
 ![Bored Ape Yacht Club](https://en.wikipedia.org/wiki/Bored_Ape#/media/File:Various_Bored_Ape.jpg)
 
 **艺术与文化价值**
+
 数字藏品为艺术家打开了一扇通往新世界的大门，他们可以在这里尽情施展才华，让创意如烟花般绽放。Beeple的《Everydays: The First 5000 Days》以6900万美元成交，这不仅是一次艺术的胜利，更是数字藏品作为文化创新形式的有力证明。
 
 ![Everydays: The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days#/media/File:Everydays,_the_First_5000_Days.jpg)
@@ -32,12 +34,15 @@ tags:
 ![Everydays: The First 5000 Days 细节](/_posts/2025-05-10-nft-survey/everydays.detail.png)
 
 **投资潜力与资本增值**
+
 数字藏品成了投资界的“新宠”，许多项目价格暴涨，让投资者们仿佛看到了金矿。Bored Ape Yacht Club 在短时间内价格大幅上涨，吸引了大量投资者。
 
 **去中心化与透明性**
+
 区块链技术让交易过程变得像玻璃缸里的小鱼一样透明，创作者、买家和卖家可以直接交易，省去了中间商的“叨扰”，降低了成本和时间。每个NFT的所有权和交易历史都能被清晰地记录和查询，这无疑给艺术品和收藏品市场注入了一剂“强心针”。
 
 **年轻一代的兴趣与数字原生文化**
+
 年轻人们在数字世界里如鱼得水，对数字原生文化有着天然的亲近感。数字藏品成了他们社交、娱乐和投资的新宠，像 Axie Infinity 等基于NFT的虚拟世界和游戏吸引了大量年轻玩家。
 
 ![Axie Infinity](https://en.wikipedia.org/wiki/Axie_Infinity#/media/File:AxieInfinity_cover.png)
@@ -46,14 +51,17 @@ tags:
 
 ## 海外 NFT 发展关键时间节点
 **2017年：NFT的首次出现**
+
 2017年，CryptoPunks 和 CryptoKitties 等项目首次亮相，标志着NFT的诞生。
 
 ![CryptoKitties](https://en.wikipedia.org/wiki/CryptoKitties#/media/File:CryptoKitties_cover.jpg)
 
 **2020年：DeFi和NFT的交集**
+
 NFT与去中心化金融（DeFi）相结合，为其他资产类别提供金融化解决方案。
 
 **2021年：NFT的爆发式增长**
+
 2021年，NFT市场迎来爆发式增长，交易量和市值都达到了历史新高。
 - Beeple的《Everydays: The First 5000 Days》在佳士得拍卖行以6900万美元成交, 成为有史以来最昂贵的NFT艺术品之一, 标志着NFT艺术正式进入主流艺术市场.
 - Bored Ape Yacht Club (BAYC) 从最初的0.08 ETH（约200美元）涨至最高100 ETH以上, 吸引了众多名人收藏，包括贾斯汀·比伯、麦当娜等. 
